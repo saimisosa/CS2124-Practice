@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="practice7" targetName="practice7" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="302dcba5-71db-46b6-a278-ee01f89c8c9f" name="Default Changelist" comment="files committed">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice8/.idea/practice8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice9/.idea/practice9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/practice7.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/practice7" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/practice7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/practice7.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/practice7.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/dungeoncrawl.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Vyy571AaJcWcekYMuakqdPhRnw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="practice7" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="practice7" TARGET_NAME="practice7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="practice7" RUN_TARGET_NAME="practice7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="302dcba5-71db-46b6-a278-ee01f89c8c9f" name="Default Changelist" comment="" />
+      <created>1578239442676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578239442676</updated>
+      <workItem from="1578239446360" duration="2417000" />
+      <workItem from="1578242872569" duration="5583000" />
+      <workItem from="1578264736059" duration="541000" />
+      <workItem from="1578327723548" duration="188000" />
+      <workItem from="1578358432156" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="files committed" />
+    <option name="LAST_COMMIT_MESSAGE" value="files committed" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="314" y="23" width="812" height="794" key="CommitChangelistDialog2" timestamp="1578327816396">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="314" y="23" width="812" height="794" key="CommitChangelistDialog2/0.23.1440.794@0.23.1440.794" timestamp="1578327816396" />
+    <state width="1398" height="9" key="GridCell.Tab.0.bottom" timestamp="1578327911503">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1398" height="9" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1578327911503" />
+    <state width="1398" height="9" key="GridCell.Tab.0.center" timestamp="1578327911502">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1398" height="9" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1578327911502" />
+    <state width="1398" height="9" key="GridCell.Tab.0.left" timestamp="1578327911502">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1398" height="9" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1578327911502" />
+    <state width="1398" height="9" key="GridCell.Tab.0.right" timestamp="1578327911502">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1398" height="9" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1578327911502" />
+    <state x="385" y="190" key="run.anything.popup" timestamp="1578246784278">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="385" y="190" key="run.anything.popup/0.23.1440.794@0.23.1440.794" timestamp="1578246784278" />
+    <state x="385" y="141" width="670" height="676" key="search.everywhere.popup" timestamp="1578243629258">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="385" y="141" width="670" height="676" key="search.everywhere.popup/0.23.1440.794@0.23.1440.794" timestamp="1578243629258" />
+  </component>
+</project>

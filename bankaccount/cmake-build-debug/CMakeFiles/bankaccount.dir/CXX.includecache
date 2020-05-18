@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/bankaccount/hello.cpp
+hello.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/bankaccount/hello.h
+iostream
+-
+string
+-
+iomanip
+-
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/bankaccount/hello.h
+iostream
+-
+vector
+-
+string
+-
+iomanip
+-
+sstream
+-
+

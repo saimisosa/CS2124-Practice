@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/Bank.cpp
+Bank.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/Bank.h
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/Bank.h
+BankManager.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/BankManager.h
+BankAccount.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/BankAccount.h
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/BankAccount.cpp
+BankAccount.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/BankAccount.h
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/BankAccount.h
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/BankManager.cpp
+BankManager.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/BankManager.h
+fstream
+-
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/BankManager.h
+Bank.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/Bank.h
+iostream
+-
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/main.cpp
+iostream
+-
+fstream
+-
+Bank.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/Bank.h
+BankManager.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/BankManager.h
+BankAccount.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/newBankAccount/BankAccount.h
+

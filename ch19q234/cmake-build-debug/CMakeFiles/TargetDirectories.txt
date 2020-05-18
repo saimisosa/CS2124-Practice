@@ -1,0 +1,3 @@
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/ch19q234/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/ch19q234/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/ch19q234/cmake-build-debug/CMakeFiles/ch19q234.dir
